@@ -1,5 +1,5 @@
 def add(x, y):
     z = x + y
-    return 10
+    print("The sum of the two numbers is: {}".format(z))
 
 add(5, 5)

@@ -1,6 +1,0 @@
-def add(x, y):
-    z = x + y
-    print("The sum of the two numbers is: {}".format(z))
-
-add(5, 5)
-print("da, da, da")
